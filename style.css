@@ -1,0 +1,29 @@
+* {
+    font-family: montserrat;
+   text-align: start;
+   padding-right: 30px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.orange {
+    background: #fea500;
+    color: white;
+}
+
+.blue {
+    background: #4f4fff;
+    color: white;
+}
+
+.green {
+    background: #16c03b;
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
